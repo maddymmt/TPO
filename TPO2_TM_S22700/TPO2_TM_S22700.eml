@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/TPO2_TM_S22700"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="gson-2.9.0" value="project"/>
+		<level name="json-20220320" value="project"/>
+		<level name="javafx-swt" value="project"/>
+		<level name="lib" value="project"/>
+	</levels>
+</component>
