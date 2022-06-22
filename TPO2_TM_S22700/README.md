@@ -1,4 +1,4 @@
-# Zadanie: klienci usług sieciowych
+# Zadanie: klienci usług sieciowych / WEBCLIENTS
 Napisać aplikację, udostępniającą GUI, w którym po podanu miasta i nazwy kraju pokazywane są:  
 1. Informacje o aktualnej pogodzie w tym mieście.  
 2. Informacje o kursie wymiany walutu kraju wobec podanej przez uzytkownika waluty.  
