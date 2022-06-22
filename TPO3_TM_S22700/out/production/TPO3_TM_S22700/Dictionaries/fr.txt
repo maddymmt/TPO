@@ -1,0 +1,5 @@
+samochód,la voiture
+kwiatek,la fleurette
+kłopot,difficulté
+klawiatura,clavier
+myszka,Souris

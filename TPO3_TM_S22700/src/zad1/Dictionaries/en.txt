@@ -1,0 +1,5 @@
+samochód,car
+kwiatek,flower
+kłopot,complication
+klawiatura,keyboard
+myszka,mouse

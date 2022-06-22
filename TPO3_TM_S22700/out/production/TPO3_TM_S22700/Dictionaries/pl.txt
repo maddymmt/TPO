@@ -1,0 +1,5 @@
+samochód,samochód
+kwiatek,kwiatek
+kłopot,kłopot
+klawiatura,klawiatura
+myszka,myszka

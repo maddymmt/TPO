@@ -1,0 +1,5 @@
+samochód, das Auto
+kwiatek,die Blume
+kłopot,das Dilemma
+klawiatura,der Klaviatur
+myszka,das Maus
