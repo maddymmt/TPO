@@ -1,4 +1,4 @@
-# Programowanie klient-serwer z użyciem gniazd i protokołów sieciowycych (bez kanałów i  selektorów)
+# Programowanie klient-serwer z użyciem gniazd i protokołów sieciowycych (bez kanałów i  selektorów) / SOCKETS, TCP
 
 Zaprojektuj aplikację umożliwiającą korzystanie z usługi słownikowej w różnych językach. Struktura aplikacji powinna składać się, min. z
 - serwera głównego,
