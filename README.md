@@ -1,5 +1,5 @@
 # TPO
 Technologie programowania rozproszonego
 
-Projekty zrobione na przedmiot TPO  
+Projekty zrobione na rzecz przedmiotu TPO  
 PJATK, 4 semestr
